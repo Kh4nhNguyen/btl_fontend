@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+}
+
+.nextScreen {
+    width: 90px;
+    min-height: 400px;
+    border: solid 1px red;
+}
+
+.mainScreen {
+    margin: 0 10px 0 10px;
+    width: 200px;
+    min-height: 400px;
+    border: solid 1px black;
+}
+
+.controller {
+    float: left;
+    padding-left: 10px;
+
+    width: 120px;
+    min-height: 400px;
+    border: solid 1px black;
+}
